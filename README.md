@@ -1,6 +1,8 @@
 # SWEETMON
 'SWEETMON' is a fuzzer monitoring service based python3 + django. User can check their fuzzers and crashes on the web. It can reduce repetitive work for fuzz testers.
 
+[![Build Status](https://travis-ci.org/bunseokbot/sweetmon.svg?branch=master)](https://travis-ci.org/bunseokbot/sweetmon)
+
 ## What is this?
 
 Sweetmon provides several useful things for monitoring fuzzers and crashes.
